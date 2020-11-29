@@ -1,0 +1,271 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\u002910\\source\\repos\\NetCoreSagaSample\\SagaSample.OrderSagaCoordinator.IoC\\SagaSample.OrderSagaCoordinator.IoC.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\u002910\\source\\repos\\NetCoreSagaSample\\SagaSample.Common\\SagaSample.Common.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\u002910\\source\\repos\\NetCoreSagaSample\\SagaSample.Common\\SagaSample.Common.csproj",
+        "projectName": "SagaSample.Common",
+        "projectPath": "C:\\Users\\u002910\\source\\repos\\NetCoreSagaSample\\SagaSample.Common\\SagaSample.Common.csproj",
+        "packagesPath": "C:\\Users\\u002910\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\u002910\\source\\repos\\NetCoreSagaSample\\SagaSample.Common\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\u002910\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\ServiceFabricSDK.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\Microsoft SDKs\\Service Fabric\\packages": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://xpinvestimentos.pkgs.visualstudio.com/_packaging/PackagesXP/nuget/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\u002910\\source\\repos\\NetCoreSagaSample\\SagaSample.Messages\\SagaSample.Messages.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\u002910\\source\\repos\\NetCoreSagaSample\\SagaSample.Messages\\SagaSample.Messages.csproj",
+        "projectName": "SagaSample.Messages",
+        "projectPath": "C:\\Users\\u002910\\source\\repos\\NetCoreSagaSample\\SagaSample.Messages\\SagaSample.Messages.csproj",
+        "packagesPath": "C:\\Users\\u002910\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\u002910\\source\\repos\\NetCoreSagaSample\\SagaSample.Messages\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\u002910\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\ServiceFabricSDK.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\Microsoft SDKs\\Service Fabric\\packages": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://xpinvestimentos.pkgs.visualstudio.com/_packaging/PackagesXP/nuget/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\u002910\\source\\repos\\NetCoreSagaSample\\SagaSample.OrderSagaCoordinator.Infrastructure.Events\\SagaSample.OrderSagaCoordinator.Infrastructure.Events.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\u002910\\source\\repos\\NetCoreSagaSample\\SagaSample.OrderSagaCoordinator.Infrastructure.Events\\SagaSample.OrderSagaCoordinator.Infrastructure.Events.csproj",
+        "projectName": "SagaSample.OrderSagaCoordinator.Infrastructure.Events",
+        "projectPath": "C:\\Users\\u002910\\source\\repos\\NetCoreSagaSample\\SagaSample.OrderSagaCoordinator.Infrastructure.Events\\SagaSample.OrderSagaCoordinator.Infrastructure.Events.csproj",
+        "packagesPath": "C:\\Users\\u002910\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\u002910\\source\\repos\\NetCoreSagaSample\\SagaSample.OrderSagaCoordinator.Infrastructure.Events\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\u002910\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\ServiceFabricSDK.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\Microsoft SDKs\\Service Fabric\\packages": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://xpinvestimentos.pkgs.visualstudio.com/_packaging/PackagesXP/nuget/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "C:\\Users\\u002910\\source\\repos\\NetCoreSagaSample\\SagaSample.Common\\SagaSample.Common.csproj": {
+                "projectPath": "C:\\Users\\u002910\\source\\repos\\NetCoreSagaSample\\SagaSample.Common\\SagaSample.Common.csproj"
+              },
+              "C:\\Users\\u002910\\source\\repos\\NetCoreSagaSample\\SagaSample.Messages\\SagaSample.Messages.csproj": {
+                "projectPath": "C:\\Users\\u002910\\source\\repos\\NetCoreSagaSample\\SagaSample.Messages\\SagaSample.Messages.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "GreenPipes": {
+              "target": "Package",
+              "version": "[4.0.0, )"
+            },
+            "MassTransit.AspNetCore": {
+              "target": "Package",
+              "version": "[7.0.7, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\u002910\\source\\repos\\NetCoreSagaSample\\SagaSample.OrderSagaCoordinator.IoC\\SagaSample.OrderSagaCoordinator.IoC.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\u002910\\source\\repos\\NetCoreSagaSample\\SagaSample.OrderSagaCoordinator.IoC\\SagaSample.OrderSagaCoordinator.IoC.csproj",
+        "projectName": "SagaSample.OrderSagaCoordinator.IoC",
+        "projectPath": "C:\\Users\\u002910\\source\\repos\\NetCoreSagaSample\\SagaSample.OrderSagaCoordinator.IoC\\SagaSample.OrderSagaCoordinator.IoC.csproj",
+        "packagesPath": "C:\\Users\\u002910\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\u002910\\source\\repos\\NetCoreSagaSample\\SagaSample.OrderSagaCoordinator.IoC\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\u002910\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\ServiceFabricSDK.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\Microsoft SDKs\\Service Fabric\\packages": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://xpinvestimentos.pkgs.visualstudio.com/_packaging/PackagesXP/nuget/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "C:\\Users\\u002910\\source\\repos\\NetCoreSagaSample\\SagaSample.OrderSagaCoordinator.Infrastructure.Events\\SagaSample.OrderSagaCoordinator.Infrastructure.Events.csproj": {
+                "projectPath": "C:\\Users\\u002910\\source\\repos\\NetCoreSagaSample\\SagaSample.OrderSagaCoordinator.Infrastructure.Events\\SagaSample.OrderSagaCoordinator.Infrastructure.Events.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "MassTransit.AspNetCore": {
+              "target": "Package",
+              "version": "[7.0.7, )"
+            },
+            "MassTransit.RabbitMQ": {
+              "target": "Package",
+              "version": "[7.0.7, )"
+            },
+            "MassTransit.Redis": {
+              "target": "Package",
+              "version": "[7.0.7, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,15 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Folder Include="Finance\Queries\" />
+    <Folder Include="Order\Commands\" />
+    <Folder Include="Order\Queries\" />
+    <Folder Include="Safekeeping\Commands\" />
+    <Folder Include="Safekeeping\Queries\" />
+  </ItemGroup>
+
+</Project>

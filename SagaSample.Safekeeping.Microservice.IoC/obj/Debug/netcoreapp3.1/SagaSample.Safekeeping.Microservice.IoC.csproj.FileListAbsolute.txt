@@ -1,0 +1,9 @@
+C:\Users\u002910\source\repos\SagaSample\SagaSample.Safekeeping.Microservice.IoC\bin\Debug\netcoreapp3.1\SagaSample.Safekeeping.Microservice.IoC.deps.json
+C:\Users\u002910\source\repos\SagaSample\SagaSample.Safekeeping.Microservice.IoC\bin\Debug\netcoreapp3.1\SagaSample.Safekeeping.Microservice.IoC.dll
+C:\Users\u002910\source\repos\SagaSample\SagaSample.Safekeeping.Microservice.IoC\bin\Debug\netcoreapp3.1\SagaSample.Safekeeping.Microservice.IoC.pdb
+C:\Users\u002910\source\repos\SagaSample\SagaSample.Safekeeping.Microservice.IoC\obj\Debug\netcoreapp3.1\SagaSample.Safekeeping.Microservice.IoC.csprojAssemblyReference.cache
+C:\Users\u002910\source\repos\SagaSample\SagaSample.Safekeeping.Microservice.IoC\obj\Debug\netcoreapp3.1\SagaSample.Safekeeping.Microservice.IoC.AssemblyInfoInputs.cache
+C:\Users\u002910\source\repos\SagaSample\SagaSample.Safekeeping.Microservice.IoC\obj\Debug\netcoreapp3.1\SagaSample.Safekeeping.Microservice.IoC.AssemblyInfo.cs
+C:\Users\u002910\source\repos\SagaSample\SagaSample.Safekeeping.Microservice.IoC\obj\Debug\netcoreapp3.1\SagaSample.Safekeeping.Microservice.IoC.csproj.CoreCompileInputs.cache
+C:\Users\u002910\source\repos\SagaSample\SagaSample.Safekeeping.Microservice.IoC\obj\Debug\netcoreapp3.1\SagaSample.Safekeeping.Microservice.IoC.dll
+C:\Users\u002910\source\repos\SagaSample\SagaSample.Safekeeping.Microservice.IoC\obj\Debug\netcoreapp3.1\SagaSample.Safekeeping.Microservice.IoC.pdb

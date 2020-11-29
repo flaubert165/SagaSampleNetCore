@@ -1,0 +1,9 @@
+C:\Users\u002910\source\repos\SagaSample\SagaSample.Finance.Microservice.IoC\bin\Debug\netcoreapp3.1\SagaSample.Finance.Microservice.IoC.deps.json
+C:\Users\u002910\source\repos\SagaSample\SagaSample.Finance.Microservice.IoC\bin\Debug\netcoreapp3.1\SagaSample.Finance.Microservice.IoC.dll
+C:\Users\u002910\source\repos\SagaSample\SagaSample.Finance.Microservice.IoC\bin\Debug\netcoreapp3.1\SagaSample.Finance.Microservice.IoC.pdb
+C:\Users\u002910\source\repos\SagaSample\SagaSample.Finance.Microservice.IoC\obj\Debug\netcoreapp3.1\SagaSample.Finance.Microservice.IoC.csprojAssemblyReference.cache
+C:\Users\u002910\source\repos\SagaSample\SagaSample.Finance.Microservice.IoC\obj\Debug\netcoreapp3.1\SagaSample.Finance.Microservice.IoC.AssemblyInfoInputs.cache
+C:\Users\u002910\source\repos\SagaSample\SagaSample.Finance.Microservice.IoC\obj\Debug\netcoreapp3.1\SagaSample.Finance.Microservice.IoC.AssemblyInfo.cs
+C:\Users\u002910\source\repos\SagaSample\SagaSample.Finance.Microservice.IoC\obj\Debug\netcoreapp3.1\SagaSample.Finance.Microservice.IoC.csproj.CoreCompileInputs.cache
+C:\Users\u002910\source\repos\SagaSample\SagaSample.Finance.Microservice.IoC\obj\Debug\netcoreapp3.1\SagaSample.Finance.Microservice.IoC.dll
+C:\Users\u002910\source\repos\SagaSample\SagaSample.Finance.Microservice.IoC\obj\Debug\netcoreapp3.1\SagaSample.Finance.Microservice.IoC.pdb

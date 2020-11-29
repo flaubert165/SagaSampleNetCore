@@ -1,0 +1,6 @@
+C:\Users\u002910\source\repos\SagaSample\SagaSample.OrderSagaCoordinator\obj\Debug\net5.0\SagaSample.OrderSagaCoordinator.csprojAssemblyReference.cache
+C:\Users\u002910\source\repos\SagaSample\SagaSample.OrderSagaCoordinator\obj\Debug\net5.0\SagaSample.OrderSagaCoordinator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\u002910\source\repos\SagaSample\SagaSample.OrderSagaCoordinator\obj\Debug\net5.0\SagaSample.OrderSagaCoordinator.AssemblyInfoInputs.cache
+C:\Users\u002910\source\repos\SagaSample\SagaSample.OrderSagaCoordinator\obj\Debug\net5.0\SagaSample.OrderSagaCoordinator.AssemblyInfo.cs
+C:\Users\u002910\source\repos\SagaSample\SagaSample.OrderSagaCoordinator\obj\Debug\net5.0\SagaSample.OrderSagaCoordinator.csproj.CoreCompileInputs.cache
+C:\Users\u002910\source\repos\SagaSample\SagaSample.OrderSagaCoordinator\obj\Debug\net5.0\SagaSample.OrderSagaCoordinator.MvcApplicationPartsAssemblyInfo.cache

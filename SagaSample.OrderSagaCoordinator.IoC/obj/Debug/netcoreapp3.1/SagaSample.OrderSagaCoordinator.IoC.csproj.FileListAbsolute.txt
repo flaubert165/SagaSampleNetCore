@@ -1,0 +1,4 @@
+C:\Users\u002910\source\repos\SagaSample\SagaSample.OrderSagaCoordinator.IoC\obj\Debug\netcoreapp3.1\SagaSample.OrderSagaCoordinator.IoC.csprojAssemblyReference.cache
+C:\Users\u002910\source\repos\SagaSample\SagaSample.OrderSagaCoordinator.IoC\obj\Debug\netcoreapp3.1\SagaSample.OrderSagaCoordinator.IoC.AssemblyInfoInputs.cache
+C:\Users\u002910\source\repos\SagaSample\SagaSample.OrderSagaCoordinator.IoC\obj\Debug\netcoreapp3.1\SagaSample.OrderSagaCoordinator.IoC.AssemblyInfo.cs
+C:\Users\u002910\source\repos\SagaSample\SagaSample.OrderSagaCoordinator.IoC\obj\Debug\netcoreapp3.1\SagaSample.OrderSagaCoordinator.IoC.csproj.CoreCompileInputs.cache

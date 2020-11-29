@@ -1,0 +1,9 @@
+C:\Users\u002910\source\repos\SagaSample\SagaSample.Messages\bin\Debug\netcoreapp3.1\SagaSample.Messages.deps.json
+C:\Users\u002910\source\repos\SagaSample\SagaSample.Messages\bin\Debug\netcoreapp3.1\SagaSample.Messages.dll
+C:\Users\u002910\source\repos\SagaSample\SagaSample.Messages\bin\Debug\netcoreapp3.1\SagaSample.Messages.pdb
+C:\Users\u002910\source\repos\SagaSample\SagaSample.Messages\obj\Debug\netcoreapp3.1\SagaSample.Messages.csprojAssemblyReference.cache
+C:\Users\u002910\source\repos\SagaSample\SagaSample.Messages\obj\Debug\netcoreapp3.1\SagaSample.Messages.AssemblyInfoInputs.cache
+C:\Users\u002910\source\repos\SagaSample\SagaSample.Messages\obj\Debug\netcoreapp3.1\SagaSample.Messages.AssemblyInfo.cs
+C:\Users\u002910\source\repos\SagaSample\SagaSample.Messages\obj\Debug\netcoreapp3.1\SagaSample.Messages.csproj.CoreCompileInputs.cache
+C:\Users\u002910\source\repos\SagaSample\SagaSample.Messages\obj\Debug\netcoreapp3.1\SagaSample.Messages.dll
+C:\Users\u002910\source\repos\SagaSample\SagaSample.Messages\obj\Debug\netcoreapp3.1\SagaSample.Messages.pdb
