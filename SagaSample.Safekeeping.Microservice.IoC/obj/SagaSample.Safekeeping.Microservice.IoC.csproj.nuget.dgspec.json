@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\u002910\\source\\repos\\NetCoreSagaSample\\SagaSample.Safekeeping.Microservice.IoC\\SagaSample.Safekeeping.Microservice.IoC.csproj": {}
+    "C:\\Users\\u002910\\Desktop\\SagaSampleNetCore\\SagaSample.Safekeeping.Microservice.IoC\\SagaSample.Safekeeping.Microservice.IoC.csproj": {}
   },
   "projects": {
-    "C:\\Users\\u002910\\source\\repos\\NetCoreSagaSample\\SagaSample.Safekeeping.Microservice.IoC\\SagaSample.Safekeeping.Microservice.IoC.csproj": {
+    "C:\\Users\\u002910\\Desktop\\SagaSampleNetCore\\SagaSample.Safekeeping.Microservice.IoC\\SagaSample.Safekeeping.Microservice.IoC.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\u002910\\source\\repos\\NetCoreSagaSample\\SagaSample.Safekeeping.Microservice.IoC\\SagaSample.Safekeeping.Microservice.IoC.csproj",
+        "projectUniqueName": "C:\\Users\\u002910\\Desktop\\SagaSampleNetCore\\SagaSample.Safekeeping.Microservice.IoC\\SagaSample.Safekeeping.Microservice.IoC.csproj",
         "projectName": "SagaSample.Safekeeping.Microservice.IoC",
-        "projectPath": "C:\\Users\\u002910\\source\\repos\\NetCoreSagaSample\\SagaSample.Safekeeping.Microservice.IoC\\SagaSample.Safekeeping.Microservice.IoC.csproj",
+        "projectPath": "C:\\Users\\u002910\\Desktop\\SagaSampleNetCore\\SagaSample.Safekeeping.Microservice.IoC\\SagaSample.Safekeeping.Microservice.IoC.csproj",
         "packagesPath": "C:\\Users\\u002910\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\u002910\\source\\repos\\NetCoreSagaSample\\SagaSample.Safekeeping.Microservice.IoC\\obj\\",
+        "outputPath": "C:\\Users\\u002910\\Desktop\\SagaSampleNetCore\\SagaSample.Safekeeping.Microservice.IoC\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\u002910\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -24,7 +24,7 @@ namespace SagaSample.OrderSagaCoordinator.IoC
                     .RedisRepository(r =>
                     {
                         var configurationOptions = ConfigurationOptions.Parse(configuration["RedisConfiguration:PartialConnectionString"]);
-                        configurationOptions.Password = configuration["RedisConfiguration:Password"];
+                        //configurationOptions.Password = configuration["RedisConfiguration:Password"];
                         configurationOptions.KeepAlive = 10;
                         configurationOptions.SyncTimeout = 500;
                         configurationOptions.AllowAdmin = true;

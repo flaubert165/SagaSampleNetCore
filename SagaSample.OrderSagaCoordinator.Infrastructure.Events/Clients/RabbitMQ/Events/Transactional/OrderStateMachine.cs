@@ -43,10 +43,50 @@ namespace SagaSample.OrderSagaCoordinator.Infrastructure.Events.Clients.RabbitMQ
                 .Then(x => x.Instance.OrderId = x.Data.OrderId)
                 .Then(x => Console.WriteLine($"Order {x.Instance.OrderId} submitted"))
                 .Activity(x => x.OfType<ValidateCustomerAssetsActivity>())
-                //.ThenAsync(c => ValidateCustomerFlagsQuerie(c))
                 .TransitionTo(SafekeepingValidated));
 
+            During(SafekeepingValidated,
+                When(AssetCanBeProtectedEvent)
+                .Then(x => Console.WriteLine($"Safekeeping {x.Instance.OrderId} validated"))
+                .Activity(x => x.OfType<ValidateAndTryBlockBalanceActivity>())
+                .TransitionTo(BalanceValidated)
+                .TransitionTo(OrderCompleted)
+                .Finalize());
 
+            //DuringAny(
+            //    When(AssetCannotBeProtectedEvent)
+            //        .Then(x => Console.WriteLine($"Safekeeping {x.Instance.OrderId} validate failed"))
+            //        .Activity(x => x.OfType<>())
+            //        .TransitionTo(OrderRejected)
+            //        .Finalize());
+
+            //DuringAny(
+            //     When(CanAssetBeProtectedFailEvent)
+            //         .Then(x => Console.WriteLine($"Balance {x.Instance.OrderId} validate failed"))
+            //         .Activity(x => x.OfType<>())
+            //         .TransitionTo(OrderRejected)
+            //         .Finalize());
+
+            //DuringAny(
+            //     When(TryBlockBalanceFailedEvent)
+            //         .Then(x => Console.WriteLine($"Balance {x.Instance.OrderId} validate failed"))
+            //         .Activity(x => x.OfType<>())
+            //         .TransitionTo(OrderRejected)
+            //         .Finalize());
+
+            //DuringAny(
+            //     When(TryUnblockBalanceFailedEvent)
+            //         .Then(x => Console.WriteLine($"Balance {x.Instance.OrderId} validate failed"))
+            //         .Activity(x => x.OfType<>())
+            //         .TransitionTo(OrderRejected)
+            //         .Finalize());
+
+            //DuringAny(
+            //     When(TryUnblockBalanceSuccessfullyEvent)
+            //         .Then(x => Console.WriteLine($"Balance {x.Instance.OrderId} validate failed"))
+            //         .Activity(x => x.OfType<>())
+            //         .TransitionTo(OrderRejected)
+            //         .Finalize());
         }
 
         private void ConfigureCorrelationIds()

@@ -11,6 +11,11 @@ namespace SagaSample.OrderSagaCoordinator.Infrastructure.Events.Clients.RabbitMQ
     public class ValidateCustomerAssetsActivity
         : Activity<OrderState, IOrderSubmitted>
     {
+        public ValidateCustomerAssetsActivity()
+        {
+
+        }
+
         public void Accept(StateMachineVisitor visitor)
         {
             visitor.Visit(this);

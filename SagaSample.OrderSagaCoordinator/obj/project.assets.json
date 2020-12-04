@@ -6705,11 +6705,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\u002910\\source\\repos\\NetCoreSagaSample\\SagaSample.OrderSagaCoordinator\\SagaSample.OrderSagaCoordinator.csproj",
+      "projectUniqueName": "C:\\Users\\u002910\\Desktop\\SagaSampleNetCore\\SagaSample.OrderSagaCoordinator\\SagaSample.OrderSagaCoordinator.csproj",
       "projectName": "SagaSample.OrderSagaCoordinator",
-      "projectPath": "C:\\Users\\u002910\\source\\repos\\NetCoreSagaSample\\SagaSample.OrderSagaCoordinator\\SagaSample.OrderSagaCoordinator.csproj",
+      "projectPath": "C:\\Users\\u002910\\Desktop\\SagaSampleNetCore\\SagaSample.OrderSagaCoordinator\\SagaSample.OrderSagaCoordinator.csproj",
       "packagesPath": "C:\\Users\\u002910\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\u002910\\source\\repos\\NetCoreSagaSample\\SagaSample.OrderSagaCoordinator\\obj\\",
+      "outputPath": "C:\\Users\\u002910\\Desktop\\SagaSampleNetCore\\SagaSample.OrderSagaCoordinator\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\u002910\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -6729,8 +6729,8 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "projectReferences": {
-            "C:\\Users\\u002910\\source\\repos\\NetCoreSagaSample\\SagaSample.OrderSagaCoordinator.IoC\\SagaSample.OrderSagaCoordinator.IoC.csproj": {
-              "projectPath": "C:\\Users\\u002910\\source\\repos\\NetCoreSagaSample\\SagaSample.OrderSagaCoordinator.IoC\\SagaSample.OrderSagaCoordinator.IoC.csproj"
+            "C:\\Users\\u002910\\Desktop\\SagaSampleNetCore\\SagaSample.OrderSagaCoordinator.IoC\\SagaSample.OrderSagaCoordinator.IoC.csproj": {
+              "projectPath": "C:\\Users\\u002910\\Desktop\\SagaSampleNetCore\\SagaSample.OrderSagaCoordinator.IoC\\SagaSample.OrderSagaCoordinator.IoC.csproj"
             }
           }
         }

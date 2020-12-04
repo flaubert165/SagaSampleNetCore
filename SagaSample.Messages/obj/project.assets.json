@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\u002910\\source\\repos\\NetCoreSagaSample\\SagaSample.Messages\\SagaSample.Messages.csproj",
+      "projectUniqueName": "C:\\Users\\u002910\\Desktop\\SagaSampleNetCore\\SagaSample.Messages\\SagaSample.Messages.csproj",
       "projectName": "SagaSample.Messages",
-      "projectPath": "C:\\Users\\u002910\\source\\repos\\NetCoreSagaSample\\SagaSample.Messages\\SagaSample.Messages.csproj",
+      "projectPath": "C:\\Users\\u002910\\Desktop\\SagaSampleNetCore\\SagaSample.Messages\\SagaSample.Messages.csproj",
       "packagesPath": "C:\\Users\\u002910\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\u002910\\source\\repos\\NetCoreSagaSample\\SagaSample.Messages\\obj\\",
+      "outputPath": "C:\\Users\\u002910\\Desktop\\SagaSampleNetCore\\SagaSample.Messages\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\u002910\\AppData\\Roaming\\NuGet\\NuGet.Config",

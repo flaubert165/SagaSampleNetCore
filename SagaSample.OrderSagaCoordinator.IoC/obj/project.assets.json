@@ -6097,11 +6097,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\u002910\\source\\repos\\NetCoreSagaSample\\SagaSample.OrderSagaCoordinator.IoC\\SagaSample.OrderSagaCoordinator.IoC.csproj",
+      "projectUniqueName": "C:\\Users\\u002910\\Desktop\\SagaSampleNetCore\\SagaSample.OrderSagaCoordinator.IoC\\SagaSample.OrderSagaCoordinator.IoC.csproj",
       "projectName": "SagaSample.OrderSagaCoordinator.IoC",
-      "projectPath": "C:\\Users\\u002910\\source\\repos\\NetCoreSagaSample\\SagaSample.OrderSagaCoordinator.IoC\\SagaSample.OrderSagaCoordinator.IoC.csproj",
+      "projectPath": "C:\\Users\\u002910\\Desktop\\SagaSampleNetCore\\SagaSample.OrderSagaCoordinator.IoC\\SagaSample.OrderSagaCoordinator.IoC.csproj",
       "packagesPath": "C:\\Users\\u002910\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\u002910\\source\\repos\\NetCoreSagaSample\\SagaSample.OrderSagaCoordinator.IoC\\obj\\",
+      "outputPath": "C:\\Users\\u002910\\Desktop\\SagaSampleNetCore\\SagaSample.OrderSagaCoordinator.IoC\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\u002910\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -6121,8 +6121,8 @@
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
           "projectReferences": {
-            "C:\\Users\\u002910\\source\\repos\\NetCoreSagaSample\\SagaSample.OrderSagaCoordinator.Infrastructure.Events\\SagaSample.OrderSagaCoordinator.Infrastructure.Events.csproj": {
-              "projectPath": "C:\\Users\\u002910\\source\\repos\\NetCoreSagaSample\\SagaSample.OrderSagaCoordinator.Infrastructure.Events\\SagaSample.OrderSagaCoordinator.Infrastructure.Events.csproj"
+            "C:\\Users\\u002910\\Desktop\\SagaSampleNetCore\\SagaSample.OrderSagaCoordinator.Infrastructure.Events\\SagaSample.OrderSagaCoordinator.Infrastructure.Events.csproj": {
+              "projectPath": "C:\\Users\\u002910\\Desktop\\SagaSampleNetCore\\SagaSample.OrderSagaCoordinator.Infrastructure.Events\\SagaSample.OrderSagaCoordinator.Infrastructure.Events.csproj"
             }
           }
         }
